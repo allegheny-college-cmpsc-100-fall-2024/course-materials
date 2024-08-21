@@ -14,6 +14,8 @@ _**You must join the class Discord channel and GitHub classroom to access some o
 - [Class Discord Channel](https://discord.com/channels/877320365825749002/1275529515157946490)
 - [Gradebook]() TODO
 
+TODO: consider which links/jump-to/table of contents
+
 ## Helpful Resources 
 - [VPython Documentation](https://www.glowscript.org/docs/VPythonDocs/index.html)
 - [W3Schools Python](https://www.w3schools.com/python/)
@@ -79,38 +81,40 @@ This course relies on GitHub, Discord and Trinket.io. Your work will be assigned
 
 ### Specifications Grading
 
-TODO: Add explanation. (Possibly take from 303)
+This course uses a version **specifications grading**. This means that instead of receiving points for different assignments and a weighted average, each assignment receives a grade of either **satisfactory** or **unsatisfcatory**. Every assignment will come with clear instructions on how to receive a satisfactory grade. You will also earn **engagement points** for attending and engaging in class, and these points can either increase or lower your grade. You can miss a limited amount of assignments under this policy, and **tokens** will also allow for a few late or resubmitted assignments. See below for detailed information on how assignment completion leads to different grades. 
+
+TODO: Link to dept. policy
 
 ### Assignments & Quizzes
 
 TODO: Finish this section. 
 
-This cause will include eight problem sets, six quizzes, three projects, and three challenges. 
+This course will include eight problem sets, six quizzes, three projects (including a required final project), and three challenges. To receive a certain grade, receive a satisfactory on the appropriate number of assignments, as indicated below. 
 
-These grading criteria are subject to change, but changes should always improve your chances of a higher grade. 
+These grading criteria are subject to change, but changes should never reduce your chances of a higher grade. 
 
-| Grade | Problem Sets | Projects + Challenges | Quizzes  |
-| ----- | ------------ | --------------------- | -------- |
-| A     | 90% on 6     | 90% on 6              | 80% on 5 |
-| B     | 80% on 5     | 80% on 5              | 70% on 5 |
-| C     | 70% on 4     | 70% on 4              | 60% on 4 |
-| D     | 50% on 4     | 50% on 4              | 50% on 4 |
+| Grade | Problem Sets          | Projects + Challenges | Quizzes               |
+| ----- | --------------------- | --------------------- | --------------------- |
+| A     | Satisfactory on 7 / 8 | Satisfactory on 5 / 6 | Satisfactory on 5 / 6 |
+| B     | Satisfactory on 6 / 8 | Satisfactory on 4 / 6 | Satisfactory on 4 / 6 |
+| C     | Satisfactory on 5 / 8 | Satisfactory on 3 / 6 | Satisfactory on 3 / 6 |
+| D     | Satisfactory on 4 / 8 | Satisfactory on 2 / 6 | Satisfactory on 2 / 6 |
 
-If you receive checkmarks for different grade levels in different columns, an average will be taken. This may lead to a +/- added to your grade. 
+If you receive checkmarks for different grade levels in different columns, an average will be taken. This may lead to a +/- added to your grade.  
 
 ### Engagement Points
 
 You can receive engagement points by:
 
 - Attending class and completing entrace/exit tickets. 
-  - Tickets will be assigned during class, and cannot be completed outside of class time. 
-  - Successful completion of some tickets will require reading/watching/listening assigned materials outside of class. 
+  - Tickets will be assigned during class, and cannot be completed outside of class time. They are the primary form of attendance tracking, which will be supplemented by visual confirmation that student is present.
+  - Tickets come in different forms, such as Google Forms, Discord threads, and short Github/Trinket assignments. You receive points for completing these assignments regardless of correctness, but you must at least attempt to respond to the prompt given to ensure points. 
 - Speaking in class (answering a question, asking a question, conributing to a discussion, responding to a prompt etc.) 
 - Speaking with professor one-on-one during lab time or open work time
 - Attending professor office hours
 - Presenting a project (earns 5 points)
 
-You have opportunities to earn at least ten points during each full week of class. Your engagement points affect your grade as follows:
+You have opportunities to earn at least ten points during each full week of class (six entrance + exit tickets, three chances for in-class participation, one or more chance for office hours). Your engagement points affect your grade as follows:
 
 | Average Weekly Points | Grade Impact                               |
 | --------------------- | ------------------------------------------ |
@@ -121,25 +125,42 @@ You have opportunities to earn at least ten points during each full week of clas
 
 Weekly averages will be rounded to the nearest whole number
 
-This system means that you can miss roughly two weeks of class without consequence, assuming you are participating in class each week. Note that this accomodation is meant to cover emergencies, and additional absences may not be excused. **As an exception: if you are sick with something contagious, you should not come to class. If you are concertned sickness will impact your grade, let the professor know and accomodations will be made.** 
+This system means that you can miss roughly two weeks of class without consequence, assuming you are participating in class each week. Note that this accomodation is meant to cover emergencies, and additional absences may not be excused. 
+
+**As an exception: if you are sick with something contagious, you should not come to class even if you have already missed the permitted two weeks. If this is your situation, please contact your professor. In most situations, the ~two week allowance already in place will allow you to stay home when sick without consequence or having to contact professor. ** 
 
 You will receive regular updates on your weekly average points so you can adjust your participation accordingly.  
 
 ### Tokens and Late Assignments
 
-TODO: adjust language to accomodate quizzes, resubmits, etc. 
+**Late assignments will not be accepted unless a token is applied at least 24 hours before the assignment deadline.** 
 
-**Late challenges and projects will not be accepted unless a token is applied at least 24 hours before the assignment deadline.** You will have TODO tokens, and each can do one of the following:
+**These tokens are no-questions-asked.** They are meant to accomodate emergency situations, so there is no need to provide an excuse when applying a token. 
 
-- Allow you to make up one quiz during office hours, provided you submit your token 24 hours before the quiz date
+You will have 4 tokens, and each can do one of the following:
 
-Each token works on limited assignments: 
+- Extends **one assignment**'s deadline by one week
 
-TODO: Add tokens and expiraitons. 
+  OR
+
+- Allows resubmit of **one project** assignment one week after receiving your grade. Resubmits can only be used on projects where an on-time attempt was made.
+
+  OR
+
+- Allows you to make-up **one quiz** during professor office hours within two weeks of the orignal quiz date. In this case, the token must be applied the day before the quiz date. 
+
+Each token is active and usable for a limited period:
+
+| Token | Active Period       |
+| ----- | ------------------- |
+| 1     | August 27 - Sept 15 |
+| 2     | Sept 16 - Oct 6     |
+| 3     | Oct 7 - Oct 27      |
+| 4     | Oct 28 - Nov 24     |
 
 If you apply a token to an assignment with multiple intermittent deadlines, all deadlines that occur 24+ hours after the token is applied will be extended by one week. 
 
-The third and final project must be turned in on time. Tokens cannot be applied. 
+The final project must be turned in on time. Tokens cannot be applied. 
 
 ## Course Policies
 
