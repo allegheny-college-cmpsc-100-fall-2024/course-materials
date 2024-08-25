@@ -8,9 +8,9 @@ _**You must join the class Discord channel and GitHub classroom to access some o
 
 - [Assignment Links](https://allegheny.instructure.com/courses/11065/assignments) 
 
-[//]: # ([Lecture Content]() TODO)
+[//]: # (Lecture ContentTODO)
 
-[//]: # ([Schedule of Topics]() TODO)
+[//]: # (Schedule of Topics] TODO)
 
 - [Professor Office Hours](https://calendar.app.google/NJpNppMHngNhqDaM9) \<-- please make an appointment to guarantee meeting
 
