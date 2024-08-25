@@ -6,15 +6,21 @@
 
 _**You must join the class Discord channel and GitHub classroom to access some of these links**_
 
-- [Assignment Links]() TODO
-- [Lecture Content]() TODO
-- [Schedule of Topics]() TODO
-- [Professor Office Hours](https://calendar.app.google/NJpNppMHngNhqDaM9) \<-- please make an appointment to guarantee meeting
-- [Technical Leader Office Hours](https://discord.com/channels/877320365825749002/889929114868387941)
-- [Class Discord Channel](https://discord.com/channels/877320365825749002/1275529515157946490)
-- [Gradebook]() TODO
+- [Assignment Links](https://allegheny.instructure.com/courses/11065/assignments) 
 
-TODO: consider which links/jump-to/table of contents
+[//]: # ([Lecture Content]() TODO)
+
+[//]: # ([Schedule of Topics]() TODO)
+
+- [Professor Office Hours](https://calendar.app.google/NJpNppMHngNhqDaM9) \<-- please make an appointment to guarantee meeting
+
+- [Technical Leader Office Hours](https://discord.com/channels/877320365825749002/889929114868387941)
+
+- [Class Discord Channel](https://discord.com/channels/877320365825749002/1275529515157946490)
+
+  
+
+<!--TODO: consider which links/jump-to/table of contents-->
 
 ## Helpful Resources 
 - [VPython Documentation](https://www.glowscript.org/docs/VPythonDocs/index.html)
@@ -81,13 +87,13 @@ This course relies on GitHub, Discord and Trinket.io. Your work will be assigned
 
 ### Specifications Grading
 
-This course uses a version **specifications grading**. This means that instead of receiving points for different assignments and a weighted average, each assignment receives a grade of either **satisfactory** or **unsatisfcatory**. Every assignment will come with clear instructions on how to receive a satisfactory grade. You will also earn **engagement points** for attending and engaging in class, and these points can either increase or lower your grade. You can miss a limited amount of assignments under this policy, and **tokens** will also allow for a few late or resubmitted assignments. See below for detailed information on how assignment completion leads to different grades. 
+This course uses a version **specifications grading**. This means that instead of receiving points for different assignments and a weighted average, each assignment receives a grade of either **satisfactory** or **unsatisfcatory**.You will also earn **engagement points** for attending and engaging in class, and these points can either increase or lower your grade. 
 
-TODO: Link to dept. policy
+Each assignment is bundled into a certain category. To achieve a certain letter grade, you must receive satisfactory marks on the required number of assignments for that grade.
+
+You can miss a limited amount of assignments under this policy, and **tokens** will also allow for a few late or resubmitted assignments. See below for detailed information on how assignment completion leads to different grades. 
 
 ### Assignments & Quizzes
-
-TODO: Finish this section. 
 
 This course will include eight problem sets, six quizzes, three projects (including a required final project), and three challenges. To receive a certain grade, receive a satisfactory on the appropriate number of assignments, as indicated below. 
 
@@ -131,6 +137,8 @@ This system means that you can miss roughly two weeks of class without consequen
 
 You will receive regular updates on your weekly average points so you can adjust your participation accordingly.  
 
+See department policies for more information on attendance. 
+
 ### Tokens and Late Assignments
 
 **Late assignments will not be accepted unless a token is applied at least 24 hours before the assignment deadline.** 
@@ -162,9 +170,11 @@ If you apply a token to an assignment with multiple intermittent deadlines, all 
 
 The final project must be turned in on time. Tokens cannot be applied. 
 
+See department policies for more information on tokens. 
+
 ## Course Policies
 
-TODO: Update these policies, as well as token and engagment policies, after 4/22 department meeting (see 303)
+See department policies for more information on the below. 
 
 ### Illness and Wellness, Mental and Physical
 
