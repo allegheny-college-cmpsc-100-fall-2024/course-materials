@@ -15,6 +15,8 @@ _**You must join the class Discord channel and GitHub classroom to access some o
 - [Professor Office Hours](https://calendar.app.google/NJpNppMHngNhqDaM9) \<-- please make an appointment to guarantee meeting
 
 - [Technical Leader Office Hours](https://discord.com/channels/877320365825749002/889929114868387941)
+  
+- [Discord Invitation](https://discord.gg/alleghenycs)
 
 - [Class Discord Channel](https://discord.com/channels/877320365825749002/1275529515157946490)
 
