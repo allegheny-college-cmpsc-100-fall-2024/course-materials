@@ -222,6 +222,8 @@ The above statement, of course, also applies to online forums such as Stack Over
 
 ### Artificial Intelligence in Class
 
+Because this is a 100 level class where practice is critical, use of artificial intelligence to generate code is not permitted unless otherwise stated in a particular assignment. Students may be asked to supply verbal explanations of assignments to supplement their code. 
+
 See department policies for information on using AI assistance on class assignments. 
 
 ### Religious Observance
