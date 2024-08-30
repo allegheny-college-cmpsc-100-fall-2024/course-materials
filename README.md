@@ -112,11 +112,11 @@ If you receive checkmarks for different grade levels in different columns, an av
 
 #### Gatorgrade
 
-Gatorgrade is a tool developed by the Allegheny College CIS department to automatically grade assignments and give students immediate feedback. Problem sets and challanges may be autograded initially, but autograde results are not final until otherwise noted.
+Gatorgrade is a tool developed by the Allegheny College CIS department to automatically grade assignments and give students immediate feedback. 
 
-Projects grades may include some Gator checks to help you stay on track, but crucial parts of your grade for these assignments will be determined by the professor. Gatorgrade should be considered preliminary, especially for assignments with subjective criteria that the computer can't evaluate. 
+Gatorgrade results should be considered preliminary. Projects grades may include some Gator checks to help you stay on track, but crucial parts of your grade for these assignments will be determined by the professor. Even assignments that are primarily evaulated through gatorgrade are not final until otherwise noted. 
 
-Sometimes, Gatorgrade will make a mistake. Don't hesitate to let the professor know. 
+Sometimes, Gatorgrade will make a mistake. Don't hesitate to let the professor know if you suspect an issue. 
 
 ### Engagement Points
 
