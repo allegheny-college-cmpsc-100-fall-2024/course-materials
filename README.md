@@ -10,7 +10,7 @@ _**You must join the class Discord channel and GitHub classroom to access some o
 
 [//]: # (Lecture ContentTODO)
 
-[//]: # (Schedule of Topics] TODO)
+- [Schedule of Topics](schedule.md)
 
 - [Professor Office Hours](https://calendar.app.google/NJpNppMHngNhqDaM9) \<-- please make an appointment to guarantee meeting
 
@@ -109,6 +109,14 @@ These grading criteria are subject to change, but changes should never reduce yo
 | D     | Satisfactory on 4 / 8 | Satisfactory on 2 / 6 | Satisfactory on 2 / 6 |
 
 If you receive checkmarks for different grade levels in different columns, an average will be taken. This may lead to a +/- added to your grade.  
+
+#### Gatorgrade
+
+Gatorgrade is a tool developed by the Allegheny College CIS department to automatically grade assignments and give students immediate feedback. Problem sets and challanges may be autograded initially, but autograde results are not final until otherwise noted.
+
+Projects grades may include some Gator checks to help you stay on track, but crucial parts of your grade for these assignments will be determined by the professor. Gatorgrade should be considered preliminary, especially for assignments with subjective criteria that the computer can't evaluate. 
+
+Sometimes, Gatorgrade will make a mistake. Don't hesitate to let the professor know. 
 
 ### Engagement Points
 
