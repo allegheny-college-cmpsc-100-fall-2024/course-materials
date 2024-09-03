@@ -1,3 +1,5 @@
+# Lecture Materials
+
 ## Variables, Data Types, and Basic Operations (Sep 3)
 
 1.  [Comments](/variables-data-types-operations/01_comments.md)
@@ -12,3 +14,8 @@
 10. [Python Order](/variables-data-types-operations/10_pythonOrder.md)
 
 Additional Resource: [Getting Started with Python on trinket.io](https://docs.trinket.io/getting-started-with-python#/welcome/where-we-ll-go)
+
+## Course Tools (August 29)
+
+## About this Course (August 27)
+
