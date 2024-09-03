@@ -4,7 +4,7 @@ There are two kinds of Python comments we'll use in this class:
 
 ```python
 
-# single line comments, denoted by a hashtag at the start of the line
+# single line comments, denoted by a hashtag at the start of the comment
 
 '''
 
