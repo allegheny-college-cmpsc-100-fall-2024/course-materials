@@ -97,16 +97,16 @@ You can miss a limited amount of assignments under this policy, and **tokens** w
 
 ### Assignments & Quizzes
 
-This course will include eight problem sets, six quizzes, three projects (including a required final project), and three challenges. To receive a certain grade, receive a satisfactory on the appropriate number of assignments, as indicated below. 
+This course will include eight problem sets, six quizzes, two projects, and three challenges. To receive a certain grade, receive a satisfactory on the appropriate number of assignments, as indicated below. 
 
 These grading criteria are subject to change, but changes should never reduce your chances of a higher grade. 
 
 | Grade | Problem Sets          | Projects + Challenges | Quizzes               |
 | ----- | --------------------- | --------------------- | --------------------- |
-| A     | Satisfactory on 7 / 8 | Satisfactory on 5 / 6 | Satisfactory on 5 / 6 |
-| B     | Satisfactory on 6 / 8 | Satisfactory on 4 / 6 | Satisfactory on 4 / 6 |
-| C     | Satisfactory on 5 / 8 | Satisfactory on 3 / 6 | Satisfactory on 3 / 6 |
-| D     | Satisfactory on 4 / 8 | Satisfactory on 2 / 6 | Satisfactory on 2 / 6 |
+| A     | Satisfactory on 7 / 8 | Satisfactory on 5 / 5 | Satisfactory on 5 / 6 |
+| B     | Satisfactory on 6 / 8 | Satisfactory on 4 / 5 | Satisfactory on 4 / 6 |
+| C     | Satisfactory on 5 / 8 | Satisfactory on 3 / 5 | Satisfactory on 3 / 6 |
+| D     | Satisfactory on 4 / 8 | Satisfactory on 2 / 5 | Satisfactory on 2 / 6 |
 
 If you receive checkmarks for different grade levels in different columns, an average will be taken. This may lead to a +/- added to your grade.  
 
