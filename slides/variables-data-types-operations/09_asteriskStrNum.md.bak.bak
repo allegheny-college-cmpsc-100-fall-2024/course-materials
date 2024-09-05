@@ -15,4 +15,4 @@ result  = "Hey" * 3 # result will be HeyHeyHey
 ```
 
 
-[-> Python Order.md](/slides/slides/variables-data-types-operations/10_pythonOrder.md)
+[-> Python Order.md](/slides/variables-data-types-operations/10_pythonOrder.md)
