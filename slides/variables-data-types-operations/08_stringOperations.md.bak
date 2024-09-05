@@ -24,4 +24,4 @@ substring = text[0:3]  # Result will be "Pyt"
 
 [-> More Operations.md][def]
 
-[def]: /slides/slides/slides/slides.slides/slides/variables-data-types-operations/09_asteriskStrNum.md
+[def]: /slides/slides/slides/variables-data-types-operations/09_asteriskStrNum.md
