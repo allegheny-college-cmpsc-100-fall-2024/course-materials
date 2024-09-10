@@ -1,5 +1,15 @@
 # Lecture Materials
 
+## While Loops (Sep 10)
+
+- [CODE DEMO](https://trinket.io/library/trinkets/8730eb3d24dc)
+- [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/while-loops/01_booleanExpressions.md)
+
+## VPython Shapes and Colors (Sep 5)
+
+- [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/vpython-shapes-and-colors/01_console.md)
+
+
 ## Variables, Data Types, and Basic Operations (Sep 3)
 
 1.  [Comments](/slides/variables-data-types-operations/01_comments.md)
