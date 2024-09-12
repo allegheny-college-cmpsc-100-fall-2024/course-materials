@@ -2,9 +2,12 @@
 
 ## Modulus (Sep 12)
 
-Resources:
+Trinket Demos:
 
 - [Modulo Animation Demo Trinket](https://trinket.io/glowscript/8a404108c7)
+- [Modulo Number Patterns](https://trinket.io/python/29c81979c905)
+
+Other Resources
 - [Remainder](https://mathworld.wolfram.com/Remainder.html)
 - [Real Python - Modulo](https://realpython.com/python-modulo-operator/)
 - [Trinket Tutorial: Modulus](https://learnpython.trinket.io/learn-python-part-1-numbers#/numbers/modulus)
