@@ -1,5 +1,9 @@
 # Lecture Materials
 
+## While Loops cont'd (Sep 12)
+
+- [Slides](https://trinket.io/glowscript/8a404108c7)
+
 ## While Loops (Sep 10)
 
 - [CODE DEMO](https://trinket.io/library/trinkets/8730eb3d24dc)
