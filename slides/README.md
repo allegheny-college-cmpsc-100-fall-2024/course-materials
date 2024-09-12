@@ -1,8 +1,13 @@
 # Lecture Materials
 
-## While Loops cont'd (Sep 12)
+## Modulus (Sep 12)
 
-- [Slides](https://trinket.io/glowscript/8a404108c7)
+Resources:
+
+- [Modulo Animation Demo Trinket](https://trinket.io/glowscript/8a404108c7)
+- [Remainder](https://mathworld.wolfram.com/Remainder.html)
+- [Real Python - Modulo](https://realpython.com/python-modulo-operator/)
+- [Trinket Tutorial: Modulus](https://learnpython.trinket.io/learn-python-part-1-numbers#/numbers/modulus)
 
 ## While Loops (Sep 10)
 
