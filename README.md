@@ -27,6 +27,7 @@ _**You must join the class Discord channel and GitHub classroom to access some o
 ## Helpful Resources 
 - [VPython Documentation](https://www.glowscript.org/docs/VPythonDocs/index.html)
 - [W3Schools Python](https://www.w3schools.com/python/)
+- [Trinket Python Tutorial](https://docs.trinket.io/getting-started-with-python#/loops/while-loops)
 
 ## Professor Contact
 
