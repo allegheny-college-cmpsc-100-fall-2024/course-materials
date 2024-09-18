@@ -12,6 +12,8 @@ _**You must join the class Discord channel and GitHub classroom to access some o
 
 - [Schedule of Topics](schedule.md)
 
+- [Lecture Content](slides)
+
 - [Professor Office Hours](https://calendar.app.google/NJpNppMHngNhqDaM9) \<-- please make an appointment to guarantee meeting
 
 - [Technical Leader Office Hours](https://www.cis.allegheny.edu/teaching/technicalleaders/)
@@ -25,8 +27,11 @@ _**You must join the class Discord channel and GitHub classroom to access some o
 <!--TODO: consider which links/jump-to/table of contents-->
 
 ## Helpful Resources 
+
 - [VPython Documentation](https://www.glowscript.org/docs/VPythonDocs/index.html)
+  
 - [W3Schools Python](https://www.w3schools.com/python/)
+  
 - [Trinket Python Tutorial](https://docs.trinket.io/getting-started-with-python#/loops/while-loops)
 
 ## Professor Contact
