@@ -1,6 +1,10 @@
 # Lecture Materials
 
-## While Loop Animation (Sep 19)
+## While Loop Animation cont'd (Sep 19)
+
+- [ASCII Animation Demo](https://trinket.io/python/22349942ee51)
+
+## While Loop Animation (Sep 17)
 
 - [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/while-true/02_variableReviewVpython.md)
 - [Growing Sphere Trinket demo](https://trinket.io/glowscript/0b915e817f3d)
