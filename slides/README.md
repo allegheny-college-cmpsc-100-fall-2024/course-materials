@@ -1,5 +1,11 @@
 # Lecture Materials
 
+## While Loop Animation (Sep 19)
+
+- [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/while-true/02_variableReviewVpython.md)
+- [Growing Sphere Trinket demo](https://trinket.io/glowscript/0b915e817f3d)
+- [Growing Tree Trinket demo](https://trinket.io/glowscript/d7c51a9ca7)
+
 ## Modulus (Sep 12)
 
 Trinket Demos:
