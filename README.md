@@ -130,7 +130,7 @@ The scoring for engagmenet has changed from a weekly average to a simple letter 
 
 You can receive engagement points by:
 
-- Attending class and completing entrace/exit tickets. 
+- Attending class and completing entrance/exit tickets. 
   - Tickets will be assigned during class, and cannot be completed outside of class time. They are the primary form of attendance tracking, which will be supplemented by visual confirmation that student is present.
   - Tickets come in different forms, such as Google Forms, Discord threads, and short Github/Trinket assignments. You receive points for completing these assignments regardless of correctness, but you must at least attempt to respond to the prompt given to ensure points. 
 - Speaking in class (answering a question, asking a question, conributing to a discussion, responding to a prompt etc.) 
@@ -138,7 +138,7 @@ You can receive engagement points by:
 - Attending professor office hours
 - Presenting a project (earns 5 points)
   
-To get an A on your engagement score, you will complete enough tickets to reflect that you have missed no more than two weeks of class throughout the semester. You should also particiate in class and/or go to office hours about once a week, on average.  
+To get an A on your engagement score, you will complete enough tickets to reflect that you have missed no more than two weeks of class throughout the semester. You should also participate in class and/or go to office hours about once a week, on average.  
 
 Your engagement grade affect your grade as follows:
 
