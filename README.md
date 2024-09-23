@@ -124,7 +124,9 @@ Gatorgrade results should be considered preliminary. Projects grades may include
 
 Sometimes, Gatorgrade will make a mistake. Don't hesitate to let the professor know if you suspect an issue. 
 
-### Engagement Points
+### Engagement Grade
+
+The scoring for engagmenet has changed from a weekly average to a simple letter grade. You can see the archived version [here](https://github.com/allegheny-college-cmpsc-100-fall-2024/course-materials/tree/archive?tab=readme-ov-file#engagement-points). 
 
 You can receive engagement points by:
 
@@ -135,17 +137,18 @@ You can receive engagement points by:
 - Speaking with professor one-on-one during lab time or open work time
 - Attending professor office hours
 - Presenting a project (earns 5 points)
+  
+To get an A on your engagement score, you will complete enough tickets to reflect that you have missed no more than two weeks of class throughout the semester. You should also particiate in class and/or go to office hours about once a week, on average.  
 
-You have opportunities to earn at least ten points during each full week of class (six entrance + exit tickets, three chances for in-class participation, one or more chance for office hours). Your engagement points affect your grade as follows:
+Your engagement grade affect your grade as follows:
 
-| Average Weekly Points | Grade Impact                               |
+| Average Weekly Points | Grade Impact                               | 
 | --------------------- | ------------------------------------------ |
-| >=7                   | Adds half a letter grade, if possible      |
-| 6                     | No impact                                  |
-| 5                     | Subtracts half a letter grade, if possible |
-| <=4                   | Subtracts a full letter grade              |
+| A                  | Adds half a letter grade, if possible      | 
+| B                    | No impact                                  |
+| C                    | Subtracts half a letter grade, if possible |
+| Less than a C                   | Subtracts a full letter grade              |
 
-Weekly averages will be rounded to the nearest whole number
 
 This system means that you can miss roughly two weeks of class without consequence, assuming you are participating in class each week. Note that this accomodation is meant to cover emergencies, and additional absences may not be excused. 
 
