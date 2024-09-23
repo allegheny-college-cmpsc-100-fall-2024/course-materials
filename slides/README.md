@@ -1,5 +1,9 @@
 # Lecture Materials
 
+## For Loops (Sep 24)
+
+- [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/lists-for-loops/01_lists.md)
+
 ## While Loop Animation cont'd (Sep 19)
 
 - [ASCII Animation Demo](https://trinket.io/python/22349942ee51)
