@@ -147,7 +147,7 @@ Your engagement grade affect your grade as follows:
 | A                  | Adds half a letter grade, if possible      | 
 | B                    | No impact                                  |
 | C                    | Subtracts half a letter grade, if possible |
-| Less than a C                   | Subtracts a full letter grade              |
+| D or below                  | Subtracts a full letter grade              |
 
 
 This system means that you can miss roughly two weeks of class without consequence, assuming you are participating in class each week. Note that this accomodation is meant to cover emergencies, and additional absences may not be excused. 
