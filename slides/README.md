@@ -3,6 +3,8 @@
 ## For Loops (Sep 24)
 
 - [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/lists-for-loops/01_lists.md)
+- [Demo 1: Pets + Lists](https://trinket.io/python/eb73cbbce4e1)
+- [Demo 2: Helix For-Loop](https://trinket.io/glowscript/4389da9a38c7)
 
 ## While Loop Animation cont'd (Sep 19)
 
