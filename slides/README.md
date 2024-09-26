@@ -4,6 +4,7 @@
 
 - [Madlib activity](https://github.com/allegheny-college-cmpsc-100-fall-2024/course-materials/blob/main/slides/variables-data-types-operations/03_madlib.md)
 - [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/lists-for-loops-contd/01_whileFor.md)
+- [House demo](https://trinket.io/glowscript/3964895abcfa)
 
 ## For Loops (Sep 24)
 
