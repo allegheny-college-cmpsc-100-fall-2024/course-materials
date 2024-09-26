@@ -1,5 +1,10 @@
 # Lecture Materials
 
+## For Loops cont'd (Sep 26)
+
+- [Madlib activity](https://github.com/allegheny-college-cmpsc-100-fall-2024/course-materials/blob/main/slides/variables-data-types-operations/03_madlib.md)
+- [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/lists-for-loops-contd/01_whileFor.md)
+
 ## For Loops (Sep 24)
 
 - [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/lists-for-loops/01_lists.md)
