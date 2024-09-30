@@ -42,7 +42,9 @@ mgreen@allegheny.edu
 
 Alden Hall, #209
 
-I respond to emails within one business day.
+I respond to emails and Discord messages within one business day. 
+This means that messages sent on Friday morning may not receive a response until Monday!
+Accordingly, questions about assignments due over the weekend should be sent by end of day Thursday. 
 
 # Syllabus
 
