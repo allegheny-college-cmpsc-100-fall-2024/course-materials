@@ -3,6 +3,9 @@
 ## Conditional Statements (Oct 1)
 
 - [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/conditionals/01_if.md)
+- [Red and Green Spheres demo](https://trinket.io/glowscript/2c3f6867c1ec)
+- [Hi-bye for-loop demo](https://trinket.io/library/trinkets/e5b7756ce429)
+- [Hi-bye while-loop demo](https://trinket.io/library/trinkets/b92e97344b60)
 
 ## For Loops cont'd (Sep 26)
 
