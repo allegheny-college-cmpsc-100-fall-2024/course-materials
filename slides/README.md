@@ -1,5 +1,9 @@
 # Lecture Materials
 
+## Conditional Statements (Oct 1)
+
+- [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/conditionals/01_if.md)
+
 ## For Loops cont'd (Sep 26)
 
 - [Madlib activity](https://github.com/allegheny-college-cmpsc-100-fall-2024/course-materials/blob/main/slides/variables-data-types-operations/03_madlib.md)
