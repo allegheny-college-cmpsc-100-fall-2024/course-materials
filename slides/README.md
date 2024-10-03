@@ -1,5 +1,11 @@
 # Lecture Materials
 
+## And Or Not + function of (Oct 3)
+
+- [And Or Not Demo Shapes Demo](https://trinket.io/glowscript/3d70be60a9cd)
+- [And Or Not Animated Demo](https://trinket.io/glowscript/e6e86267116d)
+- [Function of Demo](https://trinket.io/python/446652914164)
+
 ## Conditional Statements (Oct 1)
 
 - [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/conditionals/01_if.md)
