@@ -118,6 +118,8 @@ These grading criteria are subject to change, but changes should never reduce yo
 
 If you receive checkmarks for different grade levels in different columns, an average will be taken. This may lead to a +/- added to your grade.  
 
+NOTE: There is no in-person final exam. 
+
 #### Gatorgrade
 
 Gatorgrade is a tool developed by the Allegheny College CIS department to automatically grade assignments and give students immediate feedback. 
