@@ -1,5 +1,9 @@
 # Lecture Materials
 
+## Dictionaries (Oct 22)
+
+- [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/dictionaries/02_dictionaries.md)
+
 ## DIY Functions (Oct 15)
 
 - [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/math-functions/01_pythonFunctions.md)
