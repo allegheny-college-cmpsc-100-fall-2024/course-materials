@@ -1,5 +1,11 @@
 # Lecture Materials
 
+## Classes and Methods (Oct 31)
+
+- [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/classes-methods/01_welcomeActivity.md)
+- [Code-along demo <- Number Class](https://trinket.io/library/trinkets/68a4079523ac)
+- [W3Schools Classes](https://www.w3schools.com/python/python_classes.asp)
+
 ## Dictionaries (Oct 22)
 
 - [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/dictionaries/02_dictionaries.md)
