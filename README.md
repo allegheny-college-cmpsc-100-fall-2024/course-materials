@@ -14,6 +14,8 @@ _**You must join the class Discord channel and GitHub classroom to access some o
 
 - [Lecture Content](slides)
 
+- [Grading Info](https://github.com/allegheny-college-cmpsc-100-fall-2024/course-materials?tab=readme-ov-file#assignments--evaluation)
+
 - [Professor Office Hours](https://calendar.app.google/NJpNppMHngNhqDaM9) \<-- please make an appointment to guarantee meeting
 
 - [Technical Leader Office Hours](https://www.cis.allegheny.edu/teaching/technicalleaders/)
