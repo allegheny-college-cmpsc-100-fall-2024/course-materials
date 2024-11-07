@@ -1,5 +1,11 @@
 # Lecture Materials
 
+## Mouse Interaction (Nov 7)
+- [Mouse Event example](https://trinket.io/glowscript/3d171c9d94)
+- [`scene.mouse.pick` example with nesting](https://trinket.io/glowscript/64c8cf0d5d)
+- [Advanced mouse pick example](https://www.glowscript.org/#/user/GlowScriptDemos/folder/Examples/program/MousePicking-VPython/edit
+- [VPython Documentation | Mouse Input](https://www.glowscript.org/docs/VPythonDocs/mouse.html)
+
 ## Classes and Methods (Oct 31)
 
 - [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/classes-methods/01_welcomeActivity.md)
