@@ -1,5 +1,12 @@
 # Lecture Materials
 
+## Local Development (Nov 11)
+- [Local Development](/command-line-files/01_localDevelopment.md)
+- [Git and GitHub](/git-github/01_gitAndGithub.md)
+
+VIDEO DEMO: [Clone Commit Push](https://drive.google.com/file/d/1bTXvftVQtvPRS-oC1Ky67Xh9WS4yTmfC/view?usp=sharing)
+
+
 ## Mouse Interaction (Nov 7)
 - [Mouse Event example](https://trinket.io/glowscript/3d171c9d94)
 - [Color Toggle `scene.mouse.pick` example](https://trinket.io/glowscript/ce54cfecb8)
