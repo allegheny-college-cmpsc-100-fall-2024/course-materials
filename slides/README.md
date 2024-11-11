@@ -3,6 +3,7 @@
 ## Local Development (Nov 11)
 - [Local Development](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/command-line-files/01_localDevelopment.md)
 - [Git and GitHub](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/git-github/01_gitAndGithub.md)
+- Demo Video: [Clone Commit Push](https://vimeo.com/1028547061/c346e8421a?share=copy)
 
 
 
