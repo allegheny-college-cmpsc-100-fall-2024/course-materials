@@ -2,7 +2,7 @@
 
 ## Local Development (Nov 11)
 - [Local Development](/command-line-files/01_localDevelopment.md)
-- [Git and GitHub](/git-github/01_gitAndGithub.md)
+- [Git and GitHub](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/git-github/01_gitAndGithub.md)
 
 VIDEO DEMO: [Clone Commit Push](https://drive.google.com/file/d/1bTXvftVQtvPRS-oC1Ky67Xh9WS4yTmfC/view?usp=sharing)
 
