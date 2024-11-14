@@ -1,5 +1,11 @@
 # Lecture Materials
 
+## Local Development cont'd (Nov 14)
+- Demo Video: [Local Python with Git](https://vimeo.com/1029682734/30b9362489?share=copy)
+- [Local Python Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/local-python/01_localPython.md)
+- [File Systems Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/command-line-files/06_fileSytems.md)
+
+
 ## Local Development (Nov 11)
 - [Local Development](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/command-line-files/01_localDevelopment.md)
 - [Git and GitHub](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/git-github/01_gitAndGithub.md)
