@@ -1,5 +1,9 @@
 # Lecture Materials
 
+## Local development cont'd (Nov 19)
+- Demo Video: [Files and Folders in CLI](https://vimeo.com/1031163327/e1cf78d648?share=copy)
+- Demo Trinket: [Keyboard Controls](https://trinket.io/glowscript/ddd865dd4947)
+
 ## Local Development cont'd (Nov 14)
 - Demo Video: [Local Python with Git](https://vimeo.com/1029682734/30b9362489?share=copy)
 - [Local Python Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/local-python/01_localPython.md)
