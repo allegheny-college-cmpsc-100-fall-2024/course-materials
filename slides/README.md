@@ -1,4 +1,10 @@
 # Lecture Materials
+## Keyboard Interaction + Textures (Nov 21)
+- [Trinket Demo](https://trinket.io/glowscript/8b3bff29636f)
+- [VPython User Input reference](https://www.glowscript.org/docs/VPythonDocs/userinput.html)
+- [VPython Textures reference](https://www.glowscript.org/docs/VPythonDocs/texture.html)
+- [All built-in textures](https://www.glowscript.org/#/user/GlowScriptDemos/folder/Examples/program/Textures-VPython)
+- [Imgur](https://imgur.com/) <- you can use images from this site as textures and/or create an account and upload your (CW: homepage content is sometimes unmoderated)
 
 ## Local development cont'd (Nov 19)
 - Demo Video: [Files and Folders in CLI](https://vimeo.com/1031163327/e1cf78d648?share=copy)
