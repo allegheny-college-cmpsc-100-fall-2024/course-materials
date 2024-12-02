@@ -1,4 +1,8 @@
 # Lecture Materials
+
+## Teamwork, Branching, Merging, and Pull Requests (Dec 2)
+- [Slides](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/teamwork/05_merge-conflicts.md)
+
 ## Keyboard Interaction + Textures (Nov 21)
 - [Trinket Demo](https://trinket.io/glowscript/8b3bff29636f)
 - [VPython User Input reference](https://www.glowscript.org/docs/VPythonDocs/userinput.html)
