@@ -38,6 +38,14 @@ _**You must join the class Discord channel and GitHub classroom to access some o
 
 - [CS50 Python Videos](https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
 
+## Course Software Videos:
+
+- [Accepting assignments](https://vimeo.com/1007721113/65566b42c9)
+
+- [Submitting assignments ](https://vimeo.com/1007721113/65566b42c9#t=2m14s)
+
+- [Checking GatorGrade](https://vimeo.com/1007721113/65566b42c9#t=3m17s)
+
 ## Professor Contact
 
 Morgan Green
